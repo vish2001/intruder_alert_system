@@ -27,12 +27,12 @@ reference = None
 
 #----------------------------------------------------------
 #necessary client ids to fill from APIs
-TWILIO_ACCOUNT_SID = 'ACbbf96d90be81499ce3866fbd79f5fcc1'
-TWILIO_AUTH_TOKEN = 'adf39a45658a7c76f111a3621de3d58e'
-TWILIO_PHONE_NUMBER = '+18126356076'
-CELL_PHONE_NUMBER = '+917016027612'
+TWILIO_ACCOUNT_SID = 'your twilio sid'
+TWILIO_AUTH_TOKEN = 'twilio auth token'
+TWILIO_PHONE_NUMBER = 'twilio phone no.'
+CELL_PHONE_NUMBER = 'user phone no.'
 
-IMGUR_API_ID = '1276ad07480ebe8'
+IMGUR_API_ID = 'imgur client id'
 
 
 #set path to your IMGUR account to upload detected images
